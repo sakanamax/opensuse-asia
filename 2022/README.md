@@ -1,0 +1,1 @@
+# For openSUSE.Asia summit 2022 Use

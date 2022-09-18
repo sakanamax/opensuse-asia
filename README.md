@@ -1,2 +1,2 @@
-# opensuse-asia
+# openSUSE Asia
 For openSUSE.Asia use
